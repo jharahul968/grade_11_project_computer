@@ -1,1 +1,2 @@
-# grade_11_project_computer
+# grade 11 project computer
+Topics: MS Office Suite, HTML.
